@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [RECPT_POGO-JST.PrjPcb]
+   Generated File[Pick Place for PCB01.txt]
+   Generated File[Pick Place for PCB01.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:58:17 PM On 10/30/2024

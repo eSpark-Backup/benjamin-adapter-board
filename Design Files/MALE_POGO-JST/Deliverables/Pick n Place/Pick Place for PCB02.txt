@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\MALE_POGO-JST\Project Outputs for MALE_POGO-JST\Pick Place for PCB02.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/10/24
+Time:       13:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+P2         TopLayer 15.4178mm    0.0000mm     270      15.4178mm 0.0000mm  15.4178mm -3.3000mm 
+P1         TopLayer 9.1948mm     0.0000mm     90       9.1948mm  0.0000mm  9.1948mm  -3.7500mm 
