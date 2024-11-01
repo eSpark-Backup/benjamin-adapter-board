@@ -1,15 +1,15 @@
 Altium Designer Pick and Place Locations
-C:\Users\Public\Documents\Altium\RECPT_POGO-JST\Project Outputs for RECPT_POGO-JST\Pick Place for PCB01.csv
+D:\eSpark-Consultants\benjamin-adapterboard\Design Files\RECPT_POGO-JST\Project Outputs for RECPT_POGO-JST\Pick Place for PCB01.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       30/10/24
-Time:       12:58
-Revision:   Not in VersionControl
+Date:       01/11/24
+Time:       23:21
+Revision:   32556f137ce004712ff3c19de802fd4fe8a4cecf
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J1","TopLayer","16.7390mm","0.0000mm","270","16.7390mm","0.0000mm","16.1390mm","-3.0000mm"
 "P1","TopLayer","9.1948mm","0.0000mm","90","9.1948mm","0.0000mm","9.1948mm","-3.7500mm"
-"J1","TopLayer","15.4178mm","0.0000mm","270","15.4178mm","0.0000mm","15.4178mm","3.3000mm"
